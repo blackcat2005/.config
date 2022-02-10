@@ -45,4 +45,6 @@ rename-item alias:\gcm gkm -force
 function git-commit-m { git commit -m $args }
 Set-Alias -Name gcm -Value git-commit-m
 function gs {git status}
+function git-add { git add }
+Set-Alias -Name ga -Value git-add
 
