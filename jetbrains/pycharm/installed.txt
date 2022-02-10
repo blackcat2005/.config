@@ -1,0 +1,3 @@
+com.jetbrains.intellij.datalore
+com.mallowigi.idea
+io.zhile.research.ide-eval-resetter

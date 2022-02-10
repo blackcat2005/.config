@@ -1,0 +1,4 @@
+color.scheme.Tomorrow Dark
+com.github.menwhorust.tomorrownighttheme
+com.mallowigi.idea
+io.zhile.research.ide-eval-resetter

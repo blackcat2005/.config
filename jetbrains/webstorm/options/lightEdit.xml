@@ -1,0 +1,15 @@
+<application>
+  <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://E:/Web/code/document/React/07 - Debugging React Apps/01-starting-project/src/App.js" />
+        <option value="file://$USER_HOME$/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json" />
+        <option value="file://E:/Web/code/document/React/Project/first-project/src/App.js" />
+      </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="85" y="25" width="1750" height="995" />
+    </option>
+    <option name="preferredMode" value="LightEdit" />
+  </component>
+</application>

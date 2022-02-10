@@ -1,0 +1,3 @@
+com.mallowigi.idea
+io.zhile.research.ide-eval-resetter
+org.jetbrains.kotlin
